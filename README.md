@@ -1,4 +1,4 @@
-### Hi! I'm Anisha, a junior studying CS at Purdue University. Welcome to my github! :palm_tree:
+### Hi! I'm Anisha, a junior studying CS at Purdue University. Welcome to my github! :maple_leaf:
 <!--
 **anishasbhat/anishasbhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
