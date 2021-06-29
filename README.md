@@ -1,4 +1,5 @@
 ### Hi! I'm Anisha, a junior studying CS at Purdue University. Welcome to my github! :maple_leaf:
+Learn more about me: https://anishasbhat.github.io/
 <!--
 **anishasbhat/anishasbhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
